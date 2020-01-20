@@ -1,6 +1,6 @@
 # Welcome to Cisco Live Barcelona!
 
-In this session **Hands-On Kicking the Tires of RESTCONF** we will walk through a series of exercises to introduce the topics of NETCONF and YANG and how the two interact. In order to minimize the number of errors introduced by manually typing commands into the lab-top I've provided the user inputs below.
+Becoming the Jinja Ninja: Using YAML and Jinja Tamplates to Create Reusable Code
 
 When you see a box that looks like this:
 
