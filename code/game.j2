@@ -1,0 +1,11 @@
+{% for input in inputs -%}
+
+   {% if input.name == "Tyrion" -%}
+      "{{ input.motto }}" motto of {{ input.house }}
+   {% elif input.name == "Jon Snow" -%}
+      "{{ input.motto }}" motto of {{ input.house }}
+   {% else -%}
+      "{{ input.motto }}" motto of {{ input.house }}
+   {% endif -%}
+
+{% endfor -%}

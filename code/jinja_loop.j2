@@ -1,0 +1,9 @@
+{% for input in inputs %}
+
+vlan {{ input.id }}
+ name {{ input.name }}
+interface vlan {{ input.id }}
+ Description {{ input.desc }}
+ IP address {{ input.address }} {{ input.mask }}
+
+{% endfor %}
