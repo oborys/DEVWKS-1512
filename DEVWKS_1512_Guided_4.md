@@ -2,7 +2,7 @@
 
 #### Task 1: Quick Look at the Topology
 
-![Topology](jinja_yaml_topology.png)
+![Topology](images/jinja_yaml_topology.png)
 
 
 #### Task 2: Inspecting the Python
@@ -32,4 +32,4 @@ python jinja_yaml_bgp.py
 ```
 
 ## [Moving On to the Wrap Up!](DEVWKS_1512_Guided_5.md)
-## [Return to the Table of Contents](../../README.md)
+## [Return to the Table of Contents](README.md)
