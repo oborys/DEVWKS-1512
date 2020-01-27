@@ -24,8 +24,7 @@ Create the Jinja Template File and Open It for Editing:
 
 ```
 rm jinja_loop.j2
-touch jinja_loop.j2
-open -a TextEdit jinja_loop.j2
+gedit jinja_loop.j2
 ```
 
 Execute the Template:
@@ -68,8 +67,7 @@ Create the Jinja Template File and Open It for Editing:
 
 ```
 rm jinja_conditional.j2
-touch jinja_conditional.j2
-open -a TextEdit jinja_conditional.j2
+gedit jinja_conditional.j2
 ```
 
 Execute the Template:

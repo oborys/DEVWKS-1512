@@ -26,6 +26,8 @@ source venv/bin/activate
 pip install -r requirements.txt 
 ```
 
+![Image of Yaktocat](images/mint_scr.png)
+
 Let's get started with the lab: 
 
 ## [Click Here!](DEVWKS_1512_Guided_2.md)
