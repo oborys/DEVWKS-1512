@@ -2,6 +2,11 @@
 
 Becoming the Jinja Ninja: Using YAML and Jinja Tamplates to Create Reusable Code
 
+Join the Webex Teams space
+```
+http://cs.co/eventsbot#DEVWKS-1512
+```
+
 When you see a box that looks like this:
 
 ```
