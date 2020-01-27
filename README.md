@@ -12,11 +12,16 @@ You will copy this text and paste it into the terminal. For those that aren't fa
 ### Copy - CTRL+INSERT
 ### Paste - SHIFT+INSERT
 
+Clone the repo
+```
+git clone https://github.com/oborys/DEVWKS-1512.git
+```
+
 Work with python
 
 ```
 cd DEVWKS-1512/code
-python3 -m venv myenv
+python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt 
 ```
