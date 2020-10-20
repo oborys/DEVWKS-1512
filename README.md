@@ -22,7 +22,7 @@ Clone the repo
 git clone https://github.com/oborys/DEVWKS-1512.git
 ```
 
-Work with python
+Work with Python:
 
 ```
 cd DEVWKS-1512/code
